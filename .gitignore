@@ -1,0 +1,14 @@
+# Private working notes for Claude Code -- not part of the project
+CLAUDE.md
+
+# XSim outputs (normally built under %LOCALAPPDATA%\uvm_build, but just in case)
+xsim.dir/
+.Xil/
+*.log
+*.jou
+*.pb
+*.wdb
+*.vcd
+*.args
+covdb/
+cov_report/
